@@ -1,7 +1,6 @@
 import { useEffect, useMemo, useState } from 'react';
 import { Toaster, toast } from 'react-hot-toast';
 import './App.css';
-// import {  MetaMaskProvider, useMetaMask } from '@navvi/react-use-metamask';
 import { SlashAuthProvider, useSlashAuth } from '@navvi/slashauth-react';
 
 
