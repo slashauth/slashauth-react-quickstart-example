@@ -1,3 +1,7 @@
+# /auth React Quickstart example
+This repo shows a very simple implementation of /auth to handle authenticating a user with only a couple lines of code. Try it out. You can modify the client ID to test your own client ID -- create one for yourself at https://app.slashauth.xyz
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
