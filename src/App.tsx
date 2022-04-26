@@ -9,13 +9,13 @@ function App() {
     <SlashAuthProvider domain="https://api.slashauth.xyz" clientID="z8dE0YKKnTic5cFf">
       <div className="App">
         <Toaster position="top-center" />
-        <Bar />
+        <Content />
       </div>
     </SlashAuthProvider>
   );
 }
 
-function Bar() {
+function Content() {
   const [accessToken, setAccessToken] = useState('');
 
   const {
