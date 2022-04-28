@@ -1,4 +1,4 @@
-import { useSlashAuth } from '@navvi/slashauth-react';
+import { useSlashAuth } from '@slashauth/slashauth-react';
 import { LoginStatus } from './LoginStatus';
 import { LoginButton } from './LoginButton';
 import { LogoutButton } from './LogoutButton';

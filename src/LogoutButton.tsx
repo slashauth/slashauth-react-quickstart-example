@@ -1,4 +1,4 @@
-import { useSlashAuth } from "@navvi/slashauth-react";
+import { useSlashAuth } from "@slashauth/slashauth-react";
 
 export const LogoutButton = () => {
   const { logout } = useSlashAuth();
