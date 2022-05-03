@@ -5,6 +5,8 @@ import { LogoutButton } from './LogoutButton';
 
 
 function App() {
+  console.log("Are we running this?");
+  console.log(useSlashAuth)
   const { isAuthenticated } = useSlashAuth();
 
   return (
