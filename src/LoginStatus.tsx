@@ -1,4 +1,4 @@
-import { useSlashAuth } from "@slashauth/slashauth-react";
+import { useSlashAuth } from "@slashauth/slashauth-react-beta";
 import { useEffect, useState } from "react";
 
 export const LoginStatus = () => {
