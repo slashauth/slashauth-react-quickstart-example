@@ -1,4 +1,4 @@
-import { useSlashAuth } from '@slashauth/slashauth-react-beta';
+import { useSlashAuth } from '@slashauth/slashauth-react';
 import { LoginStatus } from './LoginStatus';
 import { LoginButton } from './LoginButton';
 import { LogoutButton } from './LogoutButton';

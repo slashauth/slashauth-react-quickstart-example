@@ -1,7 +1,7 @@
 import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './App';
-import { SlashAuthProvider } from '@slashauth/slashauth-react-beta';
+import { SlashAuthProvider } from '@slashauth/slashauth-react';
 
 const root = ReactDOM.createRoot(
   document.getElementById('root') as HTMLElement

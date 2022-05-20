@@ -1,4 +1,4 @@
-import { useSlashAuth } from "@slashauth/slashauth-react-beta";
+import { useSlashAuth } from "@slashauth/slashauth-react";
 
 export const LoginButton = () => {
   const { loginNoRedirectNoPopup } = useSlashAuth();
