@@ -8,12 +8,12 @@ const root = ReactDOM.createRoot(
 );
 const providerOptions = {
   walletconnect: {
-    infuraId: '3fd4907115b84c7eb48e95514768a4e8',
+    infuraId: '5f33013cac72474db85f8f603c842d92',
     bridge: 'https://bridge.walletconnect.org',
   },
   coinbasewallet: {
-    appName: 'Web 3 Modal Demo',
-    infuraId: '3fd4907115b84c7eb48e95514768a4e8',
+    appName: 'Slashauth Demo',
+    infuraId: '5f33013cac72474db85f8f603c842d92',
   },
 };
 root.render(
